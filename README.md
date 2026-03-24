@@ -2,7 +2,7 @@
 
 R-based codes use in:
 
-'DOCK10 Regulates Insulin Hypersecretion in Insulinoma and Serves as a Diagnostic and Therapeutic Target.'
+[DOCK10 Regulates Insulin Hypersecretion in Insulinoma and Serves as a Diagnostic and Therapeutic Target](https://doi.org/10.1016/j.jcmgh.2025.101705)
 
 Hiromune Katsuda*, Go Ito*#, Franziska Kimmig$, Tomohiro Muto, Neha Mishra$, Joana Pimenta Bernardes, Yui Hiraguri, Hironari Yamashita, Akira Ito, Yuko Kinowaki, Takahiro Shin, Satoru Fujii, Masato Miyoshi, Masanori Kobayashi, Daisuke Asano, Yoshiya Ishikawa, Hiroki Ueda, Keiichi Akahoshi, Eriko Katsuta, Yoshito Kano, Shiro Yui, Yasuhiro Nemoto, Atsushi Kudo, Daisuke Ban, Yasuhiro Asahina, Stefan Schreiber, Mamoru Watanabe, Philip Rosenstiel, Ryuichi Okamoto 
 
